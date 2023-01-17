@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 -->
 
 ### 📫 Contact me: 
-<a href="https://www.linkedin.com/in/inumarthi-thirumala-sai-harsha-0a7b00225/">
+<a href="https://www.linkedin.com/in/saiharsha3377/">
   <img align="left" width="20px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png"  />
 </a>
 <a href="https://twitter.com/saiharsha3377">
