@@ -1,58 +1,90 @@
-<h1 align="center">Hey! This is Thirumala Sai Harsha</h1>
-<h3 align="center">👨‍💻 I'm a Learning Enthusiast 👨‍💻</h3>
-<h6 align="left">
+<div align="center">
+  <img height="150" src="https://camo.githubusercontent.com/62da68eb62b1e5f175f7d1f0191dd89a653d7908feb22d37d4a0ab07365d6791/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966"  />
+</div>
+
+<div align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&pause=1000&color=F7F51A&center=true&vCenter=true&width=435&lines=Hello+%3CCoder's%2F%3E!%2C+I'm+Thirumala+Sai+Harsha" alt="Typing SVG" /></a>
+</div>
+
+<div align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&pause=1000&color=18F7F5&center=true&vCenter=true&repeat=false&width=435&lines=%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB+I'm+a+Learning+Enthusiast+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB" alt="Typing SVG" /></a>
+</div>
+
+<p dir="auto"><a target="_blank" rel="noopener noreferrer nofollow" href="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" data-animated-image="" style="max-width: 100%;"></a><br><br></p>
+
+<p dir="auto"><em>About Me</em>:</p>
+<p align="left">
 🎓 I'm pursuing my B.TECH in the major of Emerging Tech in KIET</br>
 ⏳ I'm constantly learning and keeping myself updated with the latest technologies</br>
 🤔 I'm interested in learning new things always</br>
 💬 Ask me about anything, I am happy to help.</br>
 📝 See my <a href="https://drive.google.com/file/d/1JKSYNWsHplYqjP6MxGlMxFX2SHEE-olE/view?usp=sharing">Resume</a> to know more about my stats.</br>
-</h6>
-
-<h4 align="left">Languages:</h4>
-<p align="left"> 
-<a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="50" height="50"/> </a>
-<a href="https://cplusplus.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cpp" width="50" height="50"/> </a>
-<a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="50" height="50"/></a>
 </p>
+<br>
+
+<p dir="auto"><a target="_blank" rel="noopener noreferrer nofollow" href="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" data-animated-image="" style="max-width: 100%;"></a><br><br></p>
+
+<p dir="auto"><em>Let's Connect...!</em></p>
+<div align="center">
+  <a href="https://www.linkedin.com/in/saiharsha3377/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  </a>
+  <a href="https://twitter.com/i/flow/login?redirect_after_login=%2Fsaiharsha3377" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
+  </a>
+  <a href="https://www.hackerrank.com/saiharsha3377?hr_r=1" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=&color=2EC866&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="hackerrank logo"  />
+  </a>
+  <a href="https://www.instagram.com/__flirty_coder__x7/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
+  </a>
+  <a href="https://t.me/saiharsha_x7" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="telegram logo"  />
+  </a>
+</div>
+</p>
+<br>
+<p dir="auto"><a target="_blank" rel="noopener noreferrer nofollow" href="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" data-animated-image="" style="max-width: 100%;"></a><br><br></p>
+
+<p dir="auto"><em>Languages Known</em>:</p>
+<p align="left">
+ <div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="50" alt="c logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="50" alt="cplusplus logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" alt="python logo"  />
+  <img width="12" />
+ </div>
+ </p>
+ <br>
+
+ <p dir="auto"><a target="_blank" rel="noopener noreferrer nofollow" href="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" data-animated-image="" style="max-width: 100%;"></a><br><br></p>
  
-<h4 align="left">Python:</h4>
-<p align="left">
-<a href="https://numpy.org/" target="_blank"> <img src="https://numpy.org/images/logo.svg" alt="numpy" width="70" height="70"/> </a>
-<a href="https://pandas.pydata.org/" target="_blank"> <img src="https://pandas.pydata.org/static/img/pandas_white.svg" alt="pandas" width="70" height="70"/> </a>
-<a href="https://matplotlib.org/" target="_blank"> <img src="https://matplotlib.org/_static/logo2_compressed.svg" alt="matplotlib" width="70" height="70"/> </a>
-<a href="https://seaborn.pydata.org/" target="_blank"> <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" alt="seaborn" width="70" height="70"/> </a>
-</p>
+<p dir="auto"><em>Front-End Development</em>:</p>
+<p dir="auto"><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/819068798393631dfa06d6ba12a235382f6f009675d30a527a6be7f6ba73558b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f48544d4c352532302d2532334533344632362e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d68746d6c35266c6f676f436f6c6f723d7768697465"><img src="https://camo.githubusercontent.com/819068798393631dfa06d6ba12a235382f6f009675d30a527a6be7f6ba73558b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f48544d4c352532302d2532334533344632362e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d68746d6c35266c6f676f436f6c6f723d7768697465" alt="HTML5" data-canonical-src="https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=for-the-badge&amp;logo=html5&amp;logoColor=white" style="max-width: 100%;"></a>
+<a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/82a27b02a3817d130c2c07c5c611bd0efeb852786b829db07cd4b42aa021407f/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4353532532302d2532333135373242362e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d63737333266c6f676f436f6c6f723d7768697465"><img src="https://camo.githubusercontent.com/82a27b02a3817d130c2c07c5c611bd0efeb852786b829db07cd4b42aa021407f/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4353532532302d2532333135373242362e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d63737333266c6f676f436f6c6f723d7768697465" alt="CSS3" data-canonical-src="https://img.shields.io/badge/CSS%20-%231572B6.svg?style=for-the-badge&amp;logo=css3&amp;logoColor=white" style="max-width: 100%;"></a>
+<a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/0dc176976add53c960306227f875bdeb8b1f77a5db6b9fc8c86e227fce652c31/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a6176615363726970742532302d2532334637444631452e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d6a617661736372697074266c6f676f436f6c6f723d626c61636b"><img src="https://camo.githubusercontent.com/0dc176976add53c960306227f875bdeb8b1f77a5db6b9fc8c86e227fce652c31/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a6176615363726970742532302d2532334637444631452e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d6a617661736372697074266c6f676f436f6c6f723d626c61636b" alt="JavaScript" data-canonical-src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&amp;logo=javascript&amp;logoColor=black" style="max-width: 100%;"></a></p>
+<br>
 
-<h4 align="left">Clouds:</h4>
-<p align="left">
-<a href="https://cloud.google.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="50" height="50"/> </a>   
-</p>
-  
-<h4 align="left">Softwares:</h4>
-<p align="left">
-<a href="https://www.anaconda.com/" target="_blank"> <img src="https://cdn.ourcodeworld.com/public-media/articles/anaconda-python-6185c003c98a3.png" alt="anaconda" width="70" height="70"/> </a>
-<a href="https://jupyter.org/" target="_blank"> <img src="https://assets.website-files.com/6141c89a3874c3702674a1c0/625012c9c0dbf1887c4bf7c7_623d8b3bd384c356fff4d0c8_memgraph-jupyter-notebook-cover.png" alt="jupyter" width="70" height="70"/> </a>
-<a href="https://docs.spyder-ide.org/current/plugins/notebook.html" target="_blank"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsdqy9jGw3k7X9FEErQ7mieBygTF0csdXSWSKUUjnPU8tok8croxQcdgDiZVAEg0hH75Y&usqp=CAU" alt="spyder" width="70" height="70"/> </a>
-<a href="https://code.visualstudio.com/" target="_blank"> <img src="https://miro.medium.com/v2/resize:fit:1400/0*SGbxc-dbU0gyaVWm.jpg" alt="vscode" width="70" height="70"/> </a>
-<a href="https://www.python.org/" target="_blank"> <img src="https://i.morioh.com/200512/7b043468.jpg" alt="python" width="70" height="70"/> </a>
-</p>
-  
-<h4 align="left">Web Development:</h4>
-<p align="left">
-<a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="50" height="50"/> </a>
-<a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="50" height="50"/> </a>
-</p>
+<p dir="auto"><a target="_blank" rel="noopener noreferrer nofollow" href="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" data-animated-image="" style="max-width: 100%;"></a><br><br></p>
 
-#### 📫 Contact me: 
-<a href="https://www.linkedin.com/in/saiharsha3377/">
-  <img align="left" width="20px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png"  />
-</a>
-<a href="https://twitter.com/saiharsha3377">
-  <img align="left" width="22px" src="https://logodownload.org/wp-content/uploads/2014/09/twitter-logo-6.png" />
-</a>
-<a href="mailto:saiharsha3377@gmail.com">
-  <img align="left" width="22px" src="https://cdn-icons-png.flaticon.com/512/281/281769.png" />
-</a>
-<a href="https://t.me/saiharsha_x7" rel="nofollow">
-  <img align="left" alt="Saiharsha | Telegram" width="21px" src="https://camo.githubusercontent.com/68d10017d70d2610e830ef20c61109263e51381c7d9498b75d513f8386a89484/68747470733a2f2f63646e2d69636f6e732d706e672e666c617469636f6e2e636f6d2f3531322f323131312f323131313634342e706e67" data-canonical-src="https://cdn-icons-png.flaticon.com/512/2111/2111644.png" style="max-width: 100%;">
-</a>
+<p dir="auto"><em>Softwares Known</em>:</p>
+<p align="left">
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="50" alt="anaconda logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetbrains/jetbrains-original.svg" height="50" alt="jetbrains logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="50" alt="linux logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="50" alt="vscode logo"  />
+  <img width="12" />
+</p>
+<br>
+
+<p dir="auto"><a target="_blank" rel="noopener noreferrer nofollow" href="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" data-animated-image="" style="max-width: 100%;"></a><br><br></p>
+
+<p dir="auto"><em>Clouds Known</em>:</p>
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="50" alt="googlecloud logo"  />
+  <img width="12" />
