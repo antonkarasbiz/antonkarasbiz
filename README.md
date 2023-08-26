@@ -13,7 +13,6 @@
 <p dir="auto"><a target="_blank" rel="noopener noreferrer nofollow" href="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" data-animated-image="" style="max-width: 100%;"></a><br><br></p>
 
 <p dir="auto"><em>About Me</em>:</p>
-<p align="left">
 🎓 I'm pursuing my B.TECH in the major of Emerging Tech in KIET</br>
 ⏳ I'm constantly learning and keeping myself updated with the latest technologies</br>
 🤔 I'm interested in learning new things always</br>
@@ -25,7 +24,6 @@
 <p dir="auto"><a target="_blank" rel="noopener noreferrer nofollow" href="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" data-animated-image="" style="max-width: 100%;"></a><br><br></p>
 
 <p dir="auto"><em>Let's Connect...!</em></p>
-<div align="center">
   <a href="https://www.linkedin.com/in/saiharsha3377/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
@@ -47,7 +45,6 @@
 <p dir="auto"><a target="_blank" rel="noopener noreferrer nofollow" href="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" data-animated-image="" style="max-width: 100%;"></a><br><br></p>
 
 <p dir="auto"><em>Languages Known</em>:</p>
-<p align="left">
  <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="50" alt="c logo"  />
   <img width="12" />
@@ -95,3 +92,10 @@
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=saiharsha3377&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
+<br>
+
+  <p dir="auto"><a target="_blank" rel="noopener noreferrer nofollow" href="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" data-animated-image="" style="max-width: 100%;"></a><br><br></p>
+
+<p dir="auto"><em>Watch My Snake Eating My Contributions</em>:</p>
+
+![snake gif](https://github.com/saiharsha3377/saiharsha3377/blob/output/github-contribution-grid-snake.svg)
