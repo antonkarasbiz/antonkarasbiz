@@ -44,7 +44,7 @@
 <br>
 <p dir="auto"><a target="_blank" rel="noopener noreferrer nofollow" href="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" data-animated-image="" style="max-width: 100%;"></a><br><br></p>
 
-<p dir="auto"><em>Languages Known</em>:</p>
+<p dir="auto"><em>I Code With</em>:</p>
  <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="50" alt="c logo"  />
   <img width="12" />
@@ -66,7 +66,7 @@
 
 <p dir="auto"><a target="_blank" rel="noopener noreferrer nofollow" href="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" data-animated-image="" style="max-width: 100%;"></a><br><br></p>
 
-<p dir="auto"><em>Softwares Known</em>:</p>
+<p dir="auto"><em>I Work With</em>:</p>
 <p align="left">
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="50" alt="anaconda logo"  />
   <img width="12" />
