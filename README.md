@@ -104,4 +104,4 @@
 
 <p dir="auto"><em>Watch My Snake Eating My Contributions</em>:</p>
 
-![snake gif](https://github.com/saiharsha3377/saiharsha3377/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/saiharsha3377/saiharsha3377/blob/output/github-contribution-grid-snake-dark.svg)
