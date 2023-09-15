@@ -17,7 +17,7 @@
 ⏳ I'm constantly learning and keeping myself updated with the latest technologies</br>
 🤔 I'm interested in learning new things always</br>
 💬 Ask me about anything, I am happy to help.</br>
-📝 See my <a href="https://drive.google.com/file/d/1JKSYNWsHplYqjP6MxGlMxFX2SHEE-olE/view?usp=sharing">Resume</a> to know more about my stats.</br>
+📝 See my <a href="https://drive.google.com/drive/folders/1ZlOgsUSov3zc3gJOBgMqbHObidLrg91C?usp=sharing">Resume</a> to know more about my stats.</br>
 </p>
 <br>
 
