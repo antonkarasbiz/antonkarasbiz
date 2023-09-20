@@ -89,6 +89,7 @@
 
   <p dir="auto"><a target="_blank" rel="noopener noreferrer nofollow" href="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" data-animated-image="" style="max-width: 100%;"></a><br><br></p>
 
+<p dir="auto"><em>Stats</em>:</p>
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=saiharsha3377&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
@@ -99,6 +100,15 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=saiharsha3377&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 <br>
+
+<div align="center">
+  <a align="left" href="https://github.com/saiharsha3377/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=saiharsha3377&style=for-the-badge">
+</a>
+  <a href="https://github.com/saiharsha3377">
+<img alt="followers" title="Followers me on Github" src="https://img.shields.io/github/followers/saiharsha3377?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Followers"/></a>&nbsp;&nbsp;&nbsp;
+  </div>
+  <br>
 
   <p dir="auto"><a target="_blank" rel="noopener noreferrer nofollow" href="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" data-animated-image="" style="max-width: 100%;"></a><br><br></p>
 
