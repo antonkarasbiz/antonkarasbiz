@@ -23,7 +23,7 @@
 
 <p dir="auto"><a target="_blank" rel="noopener noreferrer nofollow" href="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" data-animated-image="" style="max-width: 100%;"></a><br><br></p>
 
-<p dir="auto"><em>Let's Connect...!</em></p>
+<p dir="auto"><em>Let's Connect....!</em></p>
   <a href="https://www.linkedin.com/in/saiharsha3377/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
