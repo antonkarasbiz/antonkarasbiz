@@ -1,5 +1,5 @@
 <h2>Hi, I'm Sai Harsha!</h2>
-<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
+<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="220">
 <p><em>Software Intern at <a href="https://zephyrtechnologies.co/">Zephyr Tech</a></em></p>
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/saiharsha3377?label=Follow)](https://twitter.com/intent/follow?screen_name=saiharsha3377)
@@ -10,7 +10,7 @@
 ```javascript
 const harsha = {
     pronouns: "He" | "Him",
-    code: ["C/C++", "Python", "HTML", "CSS", "Javascript", "Mojo"],
+    code: ["C/C++", "Python", "Java", "HTML", "CSS", "Javascript", "Mojo"],
     askMeAbout: ["Tech", "Web Dev", "AI", "Data Science", "Machine Learning", "Deep Learning"],
     technologies: {
         programming: {
