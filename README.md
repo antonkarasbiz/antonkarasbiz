@@ -1,6 +1,6 @@
 <h2>Hi, I'm Sai Harsha!</h2>
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="220">
-<p><em>Software Intern at <a href="https://zephyrtechnologies.co/">Zephyr Tech</a></em></p>
+<p><em>Software Intern at <a href="https://zephyrtechnologies.co/">Zephyr Technologies</a></em></p>
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/saiharsha3377?label=Follow)](https://twitter.com/intent/follow?screen_name=saiharsha3377)
 [![Linkedin: nitesh](https://img.shields.io/badge/-harsha-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/saiharsha3377/)](https://www.linkedin.com/in/saiharsha3377/)
