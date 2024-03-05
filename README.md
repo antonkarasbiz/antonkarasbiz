@@ -29,7 +29,7 @@ const harsha = {
         },
         databases: ["MongoDB", "MySQL"]
     },
-    currentFocus: "Web Development",
+    currentFocus: "Data Science",
     funFact: "Making sci-fi dreams come true, One algorithm at a time😅.;"
 };
 ```
