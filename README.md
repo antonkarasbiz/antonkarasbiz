@@ -1,6 +1,9 @@
 <h1>Hey, I'm <a href="https://thiru-dev.vercel.app/">Thirumala Sai Harsha Inumarthi</a></h1>
+
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="220">
+
 <h2 align="center"><em>Founder @<a href="https://instructiq.tech/">InstructIQ</a></em></h2>
+
 <h3 align="center">As an AI Prompt Context Engineer🤖crafting smart prompt systems and structured LLM workflows🔧, I drive 
 <a href="https://instructiq.tech/" target="_blank">InstructIQ🚀</a>-transforming ideas into prototypes and learners into industry-ready builders🎯.
 </h3>
