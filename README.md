@@ -54,9 +54,10 @@ const thiru = {
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/nandanv76" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nandanv76" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/nandan-vallamdasu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nandan-vallamdasu" height="30" width="40" /></a>
-<a href="https://instagram.com/nandan_vallamdasu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nandan_vallamdasu" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/saiharsha3377" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="saiharsha3377" height="30" width="40" /></a>
+<a href="https://twitter.com/saiharsha3377" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="saiharsha3377" height="30" width="40" /></a>
+<a href="https://instagram.com/thiru.harsh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="thiru.harsh" height="30" width="40" /></a>
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
