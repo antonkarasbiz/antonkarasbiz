@@ -1,4 +1,4 @@
-<h1>Hey, I'm <a href="https://thiru-dev.vercel.app/">Thirumala Sai Harsha Inumarthi</a></h1>
+<h1>Hey, I'm <a href="https://thiru-dev.vercel.app/" target="_blank">Thirumala Sai Harsha Inumarthi</a></h1>
 
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="220">
 
