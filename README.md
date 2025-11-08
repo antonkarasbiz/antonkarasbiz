@@ -5,13 +5,13 @@
 
 <img align="right" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="220">
 
-<h2 align="center">
+<h2 align="left">
   <em>Founder @ <a href="https://instructiq.tech/" target="_blank">InstructIQ</a></em>
 </h2>
 
 <h3 align="center">
   As an AI Prompt Context Engineer 🤖 crafting smart prompt systems and structured LLM workflows 🔧, 
-  I drive <a href="https://instructiq.tech/" target="_blank">InstructIQ 🚀</a> — transforming ideas into prototypes and learners into industry-ready builders 🎯.
+  I drive <a href="https://instructiq.tech/" target="_blank">InstructIQ 🚀</a> - transforming ideas into prototypes and learners into industry-ready builders 🎯.
 </h3>
 
 <p align="left">
@@ -51,3 +51,11 @@ const thiru = {
     funFact: "Making sci-fi dreams come true, One algorithm at a time😅.;"
 };
 ```
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/saiharsha3377/saiharsha3377/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/saiharsha3377/saiharsha3377/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/saiharsha3377/saiharsha3377/output/pacman-contribution-graph.svg">
+</picture>
+
+###
