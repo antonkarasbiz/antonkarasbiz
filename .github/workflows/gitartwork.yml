@@ -1,0 +1,23 @@
+name: Generate GitHub Contribution Graph Artwork
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+
+      - name: Generate contribution graph SVG
+        uses: jasineri/gitartwork@main  # Public action
+        with:
+          user_name: saiharsha3377
+          text: THIRU
+
+      - name: Commit SVG
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "chore: update gitartwork.svg"
