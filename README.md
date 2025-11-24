@@ -51,6 +51,18 @@ const thiru = {
     funFact: "Making sci-fi dreams come true, One algorithm at a time😅.;"
 };
 ```
+##  GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=saiharsha3377&show_icons=true&theme=radical" alt="Thiru's GitHub Stats"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=saiharsha3377&theme=github_dark"/>
+</p>
+
+![Gitartwork](https://raw.githubusercontent.com/saiharsha3377/saiharsha3377/main/gitartwork.svg)
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/saiharsha3377/saiharsha3377/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/saiharsha3377/saiharsha3377/output/pacman-contribution-graph.svg">
@@ -58,3 +70,4 @@ const thiru = {
 </picture>
 
 ###
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
