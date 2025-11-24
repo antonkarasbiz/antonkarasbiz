@@ -5,6 +5,8 @@
 
 <img align="right" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="220">
 
+<img align="right" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width="200" height="200" frameBorder="0" class="giphy-embed" allowFullScreen></img>
+
 <h2 align="left">
   <em>Founder @ <a href="https://instructiq.tech/" target="_blank">InstructIQ</a></em>
 </h2>
