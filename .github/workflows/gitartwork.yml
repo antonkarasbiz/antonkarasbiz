@@ -15,7 +15,7 @@ jobs:
         uses: jasineri/gitartwork@main  # Public action
         with:
           user_name: saiharsha3377
-          text: THIRU .
+          text: THIRU ❤️
 
       - name: Commit SVG
         uses: stefanzweifel/git-auto-commit-action@v5
