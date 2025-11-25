@@ -48,7 +48,7 @@
   location: "Mandapeta, India 🇮🇳"
 
 🚀 Current Focus:
-  - Automations
+  - "Automations"
   - "AI, Agentic AI, Machine Learning, NLP & Data Science"
   - "Building AI Learning Systems @ InstructIQ"
   - "EdTech Innovation @ InstructIQ"
