@@ -252,14 +252,14 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=4000&pause=1000&color=ff6600&center=true&vCenter=true&width=500&height=50&lines=🫂+Thanks+for+visiting+my+profile!;🫴🏻+Let's+build+something+amazing+together!;👐🏻+Open+to+collaborations+and+new+opportunities!" />
 
-**⭐ Star my repositories if you find them interesting!**
-
-*Last updated: November 25, 2025* • *Built with ❤️ and lots of 💭*
-
 </div>
 
 ![Gitartwork](https://raw.githubusercontent.com/saiharsha3377/saiharsha3377/main/gitartwork.svg)
 
+**⭐ Star my repositories if you find them interesting!**
+
+*Last updated: November 25, 2025* • *Built with ❤️ and lots of 💭*
 
 ###
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
