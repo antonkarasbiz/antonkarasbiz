@@ -6,14 +6,14 @@
 
 <div align="center">
   
-# 🧑🏻‍💻<a href="https://thiru-dev.vercel.app/" target="_blank">Thirumala Sai Harsha Inumarthi</a>👋🏻
+# 🧑🏻‍💻<a href="https://www.thiruu.in/" target="_blank">Thirumala Sai Harsha Inumarthi</a>👋🏻
 ### *Founder at <a href="https://instructiq.tech/" target="_blank">InstructIQ</a> • Global AI Chappter Lead • AI Enthusiast • EdTech Entrepreneur • Speaker • Community Lead • Innovative Mindset*
 
 <!-- Typing animation -->
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=20&duration=3000&pause=1000&color=ff6600&center=true&vCenter=true&width=600&height=50&font=Montserrat-Italic&lines=🤖+As+an+AI+Prompt+Context+Engineer+;+💻+Crafting+Smart+Prompt+Systems+;+👾+Structured+LLM+Workflows;+🚀+I+drive+InstructIQ+;+💡+Transforming+Ideas+Into+Prototypes;+🎯+Learners+into+Industry-ready+Builders!)](https://git.io/typing-svg)
 
 <p align="center">
-  <a href="https://thiru-dev.vercel.app/" target="_blank">
+  <a href="https://www.thiruu.in/" target="_blank">
     <img
       src="https://img.shields.io/static/v1?message=CodeConsolio&logo=linkedin&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge"
       height="25"
