@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="1460" viewBox="0 0 900 1460">
+  <title>Anton Karas — Software Engineer Portfolio</title>
+  <desc>900px wide editable portfolio card. Social cards are clickable links with hover states. All visible wording is editable SVG text.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#07090c"/><stop offset="1" stop-color="#15191d"/></linearGradient>
+    <linearGradient id="panel" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#171c20"/><stop offset="1" stop-color="#0d1114"/></linearGradient>
+    <style>
+      .white{fill:#f5f5f5;font-family:Arial,Helvetica,sans-serif}.muted{fill:#bfc2c5;font-family:Arial,Helvetica,sans-serif}.orange{fill:#ff8a00;font-family:Arial,Helvetica,sans-serif}.blue{fill:#65a0ff;font-family:Arial,Helvetica,sans-serif}
+      .panel{fill:url(#panel);stroke:#2b3136;stroke-width:1.5}.heading{fill:#ff8a00;font-family:Arial,Helvetica,sans-serif;font-size:25px;font-weight:700;letter-spacing:.5px}.body{fill:#ededed;font-family:Arial,Helvetica,sans-serif;font-size:21px}.label{fill:#ededed;font-family:Arial,Helvetica,sans-serif;font-size:18px;font-weight:700}.value{fill:#bfc2c5;font-family:Arial,Helvetica,sans-serif;font-size:17px}.tag{fill:#2a3035;stroke:#343b41;stroke-width:1}.tagText{fill:#f1f1f1;font-family:Arial,Helvetica,sans-serif;font-size:17px;font-weight:600}.socialTitle{fill:#f2f2f2;font-family:Arial,Helvetica,sans-serif;font-size:19px;font-weight:700}.socialSub{fill:#65a0ff;font-family:Arial,Helvetica,sans-serif;font-size:15px}.socialCard{fill:#20262b;stroke:#343b41;stroke-width:1.2;cursor:pointer}.socialCard:hover{fill:#2b3238;stroke:#ff8a00;stroke-width:2}.socialCard:hover .socialSub{fill:#ff9f2f}.socialCard:hover .iconStroke{stroke:#ff8a00}.socialCard:hover .iconFill{fill:#ff8a00}.skillHead{fill:#ededed;font-family:Arial,Helvetica,sans-serif;font-size:18px;font-weight:700}.skillNote{fill:#9fa5aa;font-family:Arial,Helvetica,sans-serif;font-size:15px}
+    </style>
+  </defs>
+  <rect width="900" height="1460" fill="url(#bg)"/>
+
+  <!-- HEADER: photo/map removed; intro is given its own safe width -->
+  <text x="52" y="78" class="white" font-size="72" font-weight="700">Anton</text>
+  <text x="265" y="78" class="orange" font-size="72" font-weight="700">Karas</text>
+  <text x="54" y="121" class="white" font-size="29" font-weight="600">Software Engineer</text>
+  <text x="54" y="156" class="white" font-size="21">Full-Stack <tspan fill="#ff8a00">•</tspan> Blockchain <tspan fill="#ff8a00">•</tspan> AI</text>
+  <text x="54" y="188" class="muted" font-size="17">I build scalable web applications, robust backend systems,</text>
+  <text x="54" y="214" class="muted" font-size="17">blockchain solutions, and AI-powered software.</text>
+
+  <rect x="600" y="36" width="264" height="194" rx="20" class="panel"/>
+  <text x="622" y="72" class="orange" font-size="18" font-weight="700">AVAILABLE WORLDWIDE</text>
+  <text x="622" y="110" class="label">Location</text><text x="706" y="110" class="value">Berlin, Germany</text>
+  <text x="622" y="145" class="label">Timezone</text><text x="710" y="145" class="value">Europe/ Berlin</text>
+  <text x="622" y="180" class="label">Focus</text><text x="680" y="180" class="value">Web3 • AI • Blockchain</text>
+
+  <line x1="52" y1="254" x2="848" y2="254" stroke="#2b3035" stroke-width="2"/>
+
+  <!-- CORE EXPERTISE -->
+  <rect x="36" y="278" width="828" height="294" rx="20" class="panel"/>
+  <text x="62" y="321" class="heading">◎ CORE EXPERTISE</text>
+  <line x1="62" y1="340" x2="838" y2="340" stroke="#30363b"/>
+  <g class="body">
+    <text x="78" y="382">Full-Stack Development</text><text x="78" y="425">Backend Architecture</text><text x="78" y="468">REST API Development</text><text x="78" y="511">Database Design</text>
+    <text x="450" y="382">Blockchain Development</text><text x="450" y="425">Smart Contracts</text><text x="450" y="468">Responsive Web Apps</text><text x="450" y="511">AI Integration</text>
+  </g>
+  <text x="78" y="548" class="skillNote">Production-minded architecture • clean code • scalable systems</text>
+
+  <!-- TECHNICAL SKILLS: richer and more descriptive -->
+  <rect x="36" y="594" width="828" height="422" rx="20" class="panel"/>
+  <text x="62" y="637" class="heading">&lt;/&gt; TECHNICAL SKILLS</text>
+  <text x="62" y="665" class="skillNote">Modern tools for full-stack, cloud, blockchain and AI-powered products</text>
+  <line x1="62" y1="682" x2="838" y2="682" stroke="#30363b"/>
+
+  <text x="62" y="724" class="skillHead">Languages</text>
+  <g class="tagText">
+    <rect class="tag" x="175" y="698" width="140" height="38" rx="19"/><text x="245" y="723" text-anchor="middle">JavaScript</text>
+    <rect class="tag" x="326" y="698" width="125" height="38" rx="19"/><text x="388" y="723" text-anchor="middle">TypeScript</text>
+    <rect class="tag" x="462" y="698" width="100" height="38" rx="19"/><text x="512" y="723" text-anchor="middle">Python</text>
+    <rect class="tag" x="573" y="698" width="88" height="38" rx="19"/><text x="617" y="723" text-anchor="middle">SQL</text>
+  </g>
+
+  <text x="62" y="784" class="skillHead">Frontend</text>
+  <g class="tagText">
+    <rect class="tag" x="175" y="758" width="90" height="38" rx="19"/><text x="220" y="783" text-anchor="middle">React</text>
+    <rect class="tag" x="276" y="758" width="105" height="38" rx="19"/><text x="328" y="783" text-anchor="middle">Next.js</text>
+    <rect class="tag" x="392" y="758" width="115" height="38" rx="19"/><text x="449" y="783" text-anchor="middle">Tailwind</text>
+    <rect class="tag" x="518" y="758" width="78" height="38" rx="19"/><text x="557" y="783" text-anchor="middle">HTML</text>
+    <rect class="tag" x="607" y="758" width="90" height="38" rx="19"/><text x="652" y="783" text-anchor="middle">CSS</text>
+  </g>
+
+  <text x="62" y="844" class="skillHead">Backend &amp; APIs</text>
+  <g class="tagText">
+    <rect class="tag" x="215" y="818" width="105" height="38" rx="19"/><text x="267" y="843" text-anchor="middle">Node.js</text>
+    <rect class="tag" x="331" y="818" width="115" height="38" rx="19"/><text x="388" y="843" text-anchor="middle">Express</text>
+    <rect class="tag" x="457" y="818" width="120" height="38" rx="19"/><text x="517" y="843" text-anchor="middle">REST APIs</text>
+    <rect class="tag" x="588" y="818" width="105" height="38" rx="19"/><text x="640" y="843" text-anchor="middle">Auth</text>
+  </g>
+
+  <text x="62" y="904" class="skillHead">Data, Cloud &amp; DevOps</text>
+  <g class="tagText">
+    <rect class="tag" x="265" y="878" width="120" height="38" rx="19"/><text x="325" y="903" text-anchor="middle">MongoDB</text>
+    <rect class="tag" x="396" y="878" width="135" height="38" rx="19"/><text x="463" y="903" text-anchor="middle">PostgreSQL</text>
+    <rect class="tag" x="542" y="878" width="95" height="38" rx="19"/><text x="590" y="903" text-anchor="middle">MySQL</text>
+    <rect class="tag" x="648" y="878" width="82" height="38" rx="19"/><text x="689" y="903" text-anchor="middle">Docker</text>
+  </g>
+
+  <text x="62" y="964" class="skillHead">Blockchain &amp; AI</text>
+  <g class="tagText">
+    <rect class="tag" x="205" y="938" width="110" height="38" rx="19"/><text x="260" y="963" text-anchor="middle">EVM</text>
+    <rect class="tag" x="326" y="938" width="145" height="38" rx="19"/><text x="398" y="963" text-anchor="middle">Smart Contracts</text>
+    <rect class="tag" x="482" y="938" width="105" height="38" rx="19"/><text x="534" y="963" text-anchor="middle">OpenAI</text>
+    <rect class="tag" x="598" y="938" width="115" height="38" rx="19"/><text x="655" y="963" text-anchor="middle">LLM Apps</text>
+  </g>
+
+  <!-- CONNECT WITH ME -->
+  <rect x="36" y="1038" width="828" height="360" rx="20" class="panel"/>
+  <text x="62" y="1081" class="heading">↗ CONNECT WITH ME</text>
+  <text x="62" y="1109" class="skillNote">Click any card to open the related address. Hover to highlight.</text>
+  <line x1="62" y1="1126" x2="838" y2="1126" stroke="#30363b"/>
+
+  <!-- GitHub -->
+  <a href="https://github.com/antonkaras" target="_blank" rel="noopener noreferrer" aria-label="GitHub">
+    <rect x="62" y="1144" width="246" height="106" rx="16" class="socialCard"/>
+    <circle cx="91" cy="1178" r="20" fill="none" stroke="#f2f2f2" stroke-width="2.5" class="iconStroke"/>
+    <text x="91" y="1185" text-anchor="middle" class="white" font-size="20" font-weight="700">GH</text>
+    <text x="125" y="1185" class="socialTitle">GitHub</text><text x="105" y="1230" class="socialSub">github.com/antonkarasbiz</text>
+  </a>
+
+  <!-- LinkedIn -->
+  <a href="https://www.linkedin.com/in/anton-karas/" target="_blank" rel="noopener noreferrer" aria-label="LinkedIn">
+    <rect x="327" y="1144" width="246" height="106" rx="16" class="socialCard"/>
+    <circle cx="356" cy="1178" r="20" fill="none" stroke="#f2f2f2" stroke-width="2.5" class="iconStroke"/>
+    <text x="356" y="1185" text-anchor="middle" class="white" font-size="18" font-weight="700">in</text>
+    <text x="390" y="1185" class="socialTitle">LinkedIn</text><text x="360" y="1230" class="socialSub">linkedin.com/in/anton-karas</text>
+  </a>
+
+  <!-- Discord -->
+  <a href="https://discord.com/users/antonakras_biz" target="_blank" rel="noopener noreferrer" aria-label="Discord">
+    <rect x="592" y="1144" width="246" height="106" rx="16" class="socialCard"/>
+    <circle cx="621" cy="1178" r="20" fill="none" stroke="#f2f2f2" stroke-width="2.5" class="iconStroke"/>
+    <text x="621" y="1185" text-anchor="middle" class="white" font-size="15" font-weight="700">DS</text>
+    <text x="655" y="1185" class="socialTitle">Discord</text><text x="625" y="1230" class="socialSub">@antonakras_biz</text>
+  </a>
+
+  <!-- Email -->
+  <a href="mailto:antonx.dev@gmail.com" aria-label="Email">
+    <rect x="62" y="1270" width="246" height="106" rx="16" class="socialCard"/>
+    <rect x="72" y="1291" width="38" height="26" rx="5"
+          fill="none"
+          stroke="#f2f2f2"
+          stroke-width="2.5"
+          class="iconStroke"/>
+    <path d="M73 1292 L91 1305 L109 1292"
+          fill="none"
+          stroke="#f2f2f2"
+          stroke-width="2.5"
+          class="iconStroke"/>
+    <text x="125" y="1310" class="socialTitle">Email</text><text x="100" y="1350" class="socialSub">antonkarasbiz@gmail.com</text>
+  </a>
+
+  <!-- Telegram -->
+  <a href="https://t.me/antonakras_biz" target="_blank" rel="noopener noreferrer" aria-label="Telegram">
+    <rect x="327" y="1270" width="246" height="106" rx="16" class="socialCard"/>
+    <circle cx="356" cy="1304" r="20" fill="none" stroke="#f2f2f2" stroke-width="2.5" class="iconStroke"/>
+    <path d="M346 1305 L369 1296 L360 1315 L355 1308 Z" fill="none" stroke="#f2f2f2" stroke-width="2" class="iconStroke"/>
+    <text x="390" y="1310" class="socialTitle">Telegram</text><text x="365" y="1350" class="socialSub">t.me/antonakras_biz</text>
+  </a>
+
+  <!-- X -->
+  <a href="https://x.com/antonakras_biz" target="_blank" rel="noopener noreferrer" aria-label="X">
+    <rect x="592" y="1270" width="246" height="106" rx="16" class="socialCard"/>
+    <circle cx="621" cy="1304" r="20" fill="none" stroke="#f2f2f2" stroke-width="2.5" class="iconStroke"/>
+    <text x="621" y="1311" text-anchor="middle" class="white" font-size="19" font-weight="700">X</text>
+    <text x="655" y="1310" class="socialTitle">X</text><text x="625" y="1350" class="socialSub">x.com/antonakras_biz</text>
+  </a>
+
+  <text x="450" y="1432" class="orange" font-size="17" text-anchor="middle">Professional software • Clear communication • Long-term value</text>
+</svg>
