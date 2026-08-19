@@ -120,7 +120,7 @@ A self-hosted community and social platform with a modern backend architecture d
 <p align="center">
   <a href="https://littleaibox.com/">
     <img
-      src="./portfolio/LittleAIBox.png"
+      src="./portfolio/LittleAlBox.png"
       width="100%"
       alt="A privacy-focused AI application"
     />
