@@ -73,7 +73,7 @@ A complete hotel-management and online booking platform supporting room manageme
 <h3 align="center">Nodyx CRM</h3>
 
 <p align="center">
-  <a href="https://github.com/Nodyx/Nodyx">
+  <a href="https://nodyx.org/">
     <img
       src="./portfolio/Nodyx.png"
       width="100%"
@@ -98,7 +98,7 @@ A self-hosted community and social platform with a modern backend architecture d
 </p>
 
 <p align="center">
-  <a href="https://github.com/Nodyx/Nodyx">
+  <a href="https://nodyx.org/">
     🔗 <strong>VIEW LIVE PROJECT</strong>
   </a>
 </p>
@@ -118,7 +118,7 @@ A self-hosted community and social platform with a modern backend architecture d
 <h3 align="center">LittleAIBox</h3>
 
 <p align="center">
-  <a href="https://github.com/LittleAIBox/LittleAIBox">
+  <a href="https://littleaibox.com/">
     <img
       src="./portfolio/LittleAIBox.png"
       width="100%"
