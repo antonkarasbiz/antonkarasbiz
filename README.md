@@ -11,7 +11,7 @@
 </p>
 
 
-# Featured Portfolio
+# My Portfolio
 
 *Welcome to my portfolio.*
 *I build **scalable web applications, robust backend systems, blockchain solutions, and AI-powered software** with a focus on clean architecture, performance, security, and modern user experiences.*
@@ -331,7 +331,7 @@ A modern, responsive web interface focused on polished visual presentation, reus
 <h3 align="center">DentalPin</h3>
 
 <p align="center">
-  <a href="https://dentalpin.com/">
+  <a href="https://demo.dentalpin.com/">
     <img
       src="./portfolio/DentalPin.png"
       width="100%"
