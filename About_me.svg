@@ -23,8 +23,8 @@
 
   <rect x="600" y="36" width="264" height="194" rx="20" class="panel"/>
   <text x="622" y="72" class="orange" font-size="18" font-weight="700">AVAILABLE WORLDWIDE</text>
-  <text x="622" y="110" class="label">Location</text><text x="706" y="110" class="value">Berlin, Germany</text>
-  <text x="622" y="145" class="label">Timezone</text><text x="710" y="145" class="value">Europe/ Berlin</text>
+  <text x="622" y="110" class="label">Location</text><text x="706" y="110" class="value">Lublin, Poland</text>
+  <text x="622" y="145" class="label">Timezone</text><text x="710" y="145" class="value">Europe/ Warsaw</text>
   <text x="622" y="180" class="label">Focus</text><text x="680" y="180" class="value">Web3 • AI • Blockchain</text>
 
   <line x1="52" y1="254" x2="848" y2="254" stroke="#2b3035" stroke-width="2"/>
