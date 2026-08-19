@@ -28,32 +28,36 @@
 
 <td width="50%" valign="top">
 
-<h3 align="center">OpenMES</h3>
+<h3 align="center">QloApps</h3>
 
 <p align="center">
-  <a href="https://demo.getopenmes.com/">
+  <a href="https://qloapps.com/">
     <img
-      src="./portfolio/openmes.png"
+      src="./portfolio/QloApps.png"
       width="100%"
-      alt="OpenMES Business Management Platform"
+      alt="hotel-management and online booking platform"
     />
   </a>
 </p>
 
 <p align="center">
-  Business management and manufacturing platform designed to manage
-  production, operations, inventory, and business workflows.
+A complete hotel-management and online booking platform supporting room management, reservations, customer accounts, pricing, and booking workflows. Demonstrates the ability to build a complex full-stack business application with multiple interconnected modules.
 </p>
 
 <p align="center">
-  <code>React</code>
-  <code>Node.js</code>
-  <code>PostgreSQL</code>
-  <code>Docker</code>
+  <code>HTML5</code>
+  <code>CSS3</code>
+  <code>PHP</code>
+  <code>MySQL</code>
+  <code>CSS3</code>
+  <code>Authentication</code>
+  <code>Payment Integration</code>
+  <code>Booking Systems</code>
+  <code>Payment Integration</code>
 </p>
 
 <p align="center">
-  <a href="https://demo.getopenmes.com/">
+  <a href="https://qloapps.com/">
     🔗 <strong>VIEW LIVE PROJECT</strong>
   </a>
 </p>
@@ -66,32 +70,35 @@
 
 <td width="50%" valign="top">
 
-<h3 align="center">Horilla CRM</h3>
+<h3 align="center">Nodyx CRM</h3>
 
 <p align="center">
-  <a href="https://crm.demo.horilla.com/">
+  <a href="https://github.com/Nodyx/Nodyx">
     <img
-      src="./portfolio/horilla-crm.png"
+      src="./portfolio/Nodyx.png"
       width="100%"
-      alt="Horilla CRM"
+      alt="A self-hosted community and social platform"
     />
   </a>
 </p>
 
 <p align="center">
-  Modern CRM platform for managing customers, employees,
-  business workflows, and organizational operations.
+A self-hosted community and social platform with a modern backend architecture designed for scalable user interactions and content management. Demonstrates backend engineering, API development, authentication, data processing, and service integration.
 </p>
 
 <p align="center">
-  <code>Python</code>
-  <code>Django</code>
-  <code>PostgreSQL</code>
   <code>JavaScript</code>
+  <code>Rust</code>
+  <code>Node.js</code>
+  <code>REST API</code>
+  <code>Authentication</code>
+  <code>Server Architecture</code>
+  <code>Database Modeling</code>
+  <code>Security</code>
 </p>
 
 <p align="center">
-  <a href="https://crm.demo.horilla.com/">
+  <a href="https://github.com/Nodyx/Nodyx">
     🔗 <strong>VIEW LIVE PROJECT</strong>
   </a>
 </p>
@@ -108,32 +115,34 @@
 
 <td width="50%" valign="top">
 
-<h3 align="center">Frappe CRM</h3>
+<h3 align="center">LittleAIBox</h3>
 
 <p align="center">
-  <a href="https://frappe.io/crm">
+  <a href="https://github.com/LittleAIBox/LittleAIBox">
     <img
-      src="./portfolio/frappe-crm.png"
+      src="./portfolio/LittleAIBox.png"
       width="100%"
-      alt="Frappe CRM"
+      alt="A privacy-focused AI application"
     />
   </a>
 </p>
 
 <p align="center">
-  Modern CRM solution focused on customer relationships,
-  sales workflows, communication, and business productivity.
+A privacy-focused AI application providing a unified interface for interacting with modern AI models. Demonstrates AI integration, conversational interfaces, model management, secure API communication, and modern web application development.
 </p>
 
 <p align="center">
-  <code>Python</code>
-  <code>Frappe</code>
-  <code>REST API</code>
-  <code>MariaDB</code>
+  <code>React</code>
+  <code>TypeScript</code>
+  <code>Python/Node.js</code>
+  <code>REST APIs</code>
+  <code>AI API Integration</code>
+  <code>LLM Integration</code>
+  <code>Model Management</code>
 </p>
 
 <p align="center">
-  <a href="https://frappe.io/crm">
+  <a href="https://github.com/LittleAIBox/LittleAIBox">
     🔗 <strong>VIEW LIVE PROJECT</strong>
   </a>
 </p>
@@ -146,32 +155,36 @@
 
 <td width="50%" valign="top">
 
-<h3 align="center">CORK Intelligence</h3>
+<h3 align="center">Paradex</h3>
 
 <p align="center">
-  <a href="YOUR_CORK_PROJECT_URL">
+  <a href="https://www.paradex.trade/">
     <img
-      src="./portfolio/cork-intelligence.png"
+      src="./portfolio/Paradex.png"
       width="100%"
-      alt="CORK Intelligence"
+      alt="A real-time decentralized trading platform"
     />
   </a>
 </p>
 
 <p align="center">
-  Intelligent analytics and business dashboard focused on
-  data visualization, insights, and decision support.
+  A real-time decentralized trading platform designed for high-frequency market interaction and live financial data. Demonstrates real-time communication, trading interfaces, WebSocket data streams, API integration, and blockchain-based application architecture.
 </p>
 
 <p align="center">
   <code>React</code>
   <code>TypeScript</code>
-  <code>Node.js</code>
-  <code>Analytics</code>
+  <code>Next.js</code>
+  <code>Tailwind CSS</code>
+  <code>REST API/WebSocket</code>
+  <code>Real-Time Data Processing</code>
+  <code>Next.js</code>
+  <code>Smart Contracts</code>
+  <code>...</code>
 </p>
 
 <p align="center">
-  <a href="YOUR_CORK_PROJECT_URL">
+  <a href="https://www.paradex.trade/">
     🔗 <strong>VIEW PROJECT</strong>
   </a>
 </p>
@@ -188,32 +201,35 @@
 
 <td width="50%" valign="top">
 
-<h3 align="center">Binance Trading Bot</h3>
+<h3 align="center">Horilla HR</h3>
 
 <p align="center">
-  <a href="YOUR_TRADING_BOT_URL">
+  <a href="https://www.horilla.com/">
     <img
-      src="./portfolio/trading-bot.png"
+      src="./portfolio/Horilla HR.png"
       width="100%"
-      alt="Binance Trading Bot"
+      alt="A comprehensive human-resource management platform"
     />
   </a>
 </p>
 
 <p align="center">
-  Automated cryptocurrency trading platform supporting
-  DCA, GRID, SMART strategies and TradingView integration.
+  A comprehensive human-resource management platform covering employees, attendance, leave, recruitment, payroll, performance, and organizational workflows. Demonstrates the ability to develop large-scale business software with complex permissions and interconnected modules.
 </p>
 
 <p align="center">
-  <code>Node.js</code>
-  <code>TypeScript</code>
-  <code>Binance API</code>
-  <code>TradingView</code>
+  <code>Python</code>
+  <code>Django</code>
+  <code>REST APIs</code>
+  <code>PostgreSQL</code>
+  <code>RBAC</code>
+  <code>Authentication</code>
+  <code>HR Management</code>
+  <code>Business Workflows</code>
 </p>
 
 <p align="center">
-  <a href="YOUR_TRADING_BOT_URL">
+  <a href="https://www.horilla.com/">
     🔗 <strong>VIEW PROJECT</strong>
   </a>
 </p>
@@ -226,32 +242,36 @@
 
 <td width="50%" valign="top">
 
-<h3 align="center">Shipping Management</h3>
+<h3 align="center">Beefy Finance</h3>
 
 <p align="center">
-  <a href="YOUR_SHIPPING_PROJECT_URL">
+  <a href="https://beefy.com/">
     <img
-      src="./portfolio/shipping-management.png"
+      src="./portfolio/Beefy Finance.png"
       width="100%"
-      alt="Shipping Management System"
+      alt="A decentralized yield-optimization platform"
     />
   </a>
 </p>
 
 <p align="center">
-  End-to-end shipping and logistics management solution
-  for tracking operations, shipments, and business workflows.
+ A decentralized yield-optimization platform that automates strategies for users across blockchain networks. Demonstrates practical Web3 development involving smart contracts, DeFi protocols, blockchain interactions, wallets, and automated financial strategies.
 </p>
 
 <p align="center">
   <code>React</code>
+  <code>JavaScript</code>
+  <code>TypeScript</code>
   <code>Node.js</code>
-  <code>MongoDB</code>
-  <code>REST API</code>
+  <code>Solidity</code>
+  <code>Smart Contracts</code>
+  <code>EVM</code>
+  <code>Transaction Management</code>
+  <code>Security</code>
 </p>
 
 <p align="center">
-  <a href="YOUR_SHIPPING_PROJECT_URL">
+  <a href="https://beefy.com/">
     🔗 <strong>VIEW PROJECT</strong>
   </a>
 </p>
@@ -268,12 +288,12 @@
 
 <td width="50%" valign="top">
 
-<h3 align="center">Crypto & NFT Platform</h3>
+<h3 align="center">Nellavio</h3>
 
 <p align="center">
-  <a href="YOUR_CRYPTO_PROJECT_URL">
+  <a href="https://nellavio.com/">
     <img
-      src="./portfolio/crypto-nft-platform.png"
+      src="./portfolio/Nellavio.png"
       width="100%"
       alt="Crypto and NFT Platform"
     />
@@ -281,20 +301,21 @@
 </p>
 
 <p align="center">
-  Web3 platform combining cryptocurrency functionality,
-  NFT technology, wallets, blockchain interactions, and APIs.
+A modern, responsive web interface focused on polished visual presentation, reusable components, and seamless experiences across desktop, tablet, and mobile devices. Demonstrates strong frontend engineering and UI implementation skills.
 </p>
 
 <p align="center">
   <code>React</code>
   <code>TypeScript</code>
-  <code>EVM</code>
-  <code>Web3</code>
-  <code>Smart Contracts</code>
+  <code>Tailwind CSS</code>
+  <code>UI/UX Implementation</code>
+  <code>Framer Motion</code>
+  <code>Accessibility</code>
+  <code>Cross-Browser Compatibility</code>
 </p>
 
 <p align="center">
-  <a href="YOUR_CRYPTO_PROJECT_URL">
+  <a href="https://nellavio.com/">
     🔗 <strong>VIEW PROJECT</strong>
   </a>
 </p>
@@ -307,32 +328,35 @@
 
 <td width="50%" valign="top">
 
-<h3 align="center">AI Empty Land Plot Detector</h3>
+<h3 align="center">DentalPin</h3>
 
 <p align="center">
-  <a href="YOUR_AI_PROJECT_URL">
+  <a href="https://dentalpin.com/">
     <img
-      src="./portfolio/ai-land-detector.png"
+      src="./portfolio/DentalPin.png"
       width="100%"
-      alt="AI Empty Land Plot Detector"
+      alt="A dental-focused web application"
     />
   </a>
 </p>
 
 <p align="center">
-  AI-powered computer vision solution for identifying
-  and analyzing empty land plots from imagery and geospatial data.
+  A dental-focused web application that combines structured patient and dental data with API-driven application workflows. It demonstrates practical database architecture, secure data management, API integration, and responsive interfaces for managing healthcare-related information.
 </p>
 
 <p align="center">
-  <code>Python</code>
-  <code>AI</code>
-  <code>Computer Vision</code>
-  <code>Machine Learning</code>
+  <code>React</code>
+  <code>TypeScript</code>
+  <code>Node.js</code>
+  <code>API Integration</code>
+  <code>PostgreSQL</code>
+  <code>Data Modeling</code>
+  <code>Search & Filtering</code>
+  <code>Third-Party API</code>
 </p>
 
 <p align="center">
-  <a href="YOUR_AI_PROJECT_URL">
+  <a href="https://dentalpin.com/">
     🔗 <strong>VIEW PROJECT</strong>
   </a>
 </p>
