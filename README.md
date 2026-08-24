@@ -28,32 +28,28 @@
 
 <td width="50%" valign="top">
 
-<h3 align="center">QloApps</h3>
+<h3 align="center">01. QloApps</h3>
 
 <p align="center">
   <a href="https://qloapps.com/">
     <img
       src="./portfolio/QloApps.png"
       width="100%"
-      alt="hotel-management and online booking platform"
+      alt="Open-source hotel-management and reservation platform"
     />
   </a>
 </p>
 
 <p align="center">
-A complete hotel-management and online booking platform supporting room management, reservations, customer accounts, pricing, and booking workflows. Demonstrates the ability to build a complex full-stack business application with multiple interconnected modules.
+Open-source hotel-management and reservation platform covering PMS, online booking, hotel websites, and channel management. Supports hotel operations such as reservations, room inventory, front-desk management, revenue management, POS, and reporting.
 </p>
 
 <p align="center">
-  <code>HTML5</code>
-  <code>CSS3</code>
-  <code>PHP</code>
-  <code>MySQL</code>
-  <code>CSS3</code>
-  <code>Authentication</code>
-  <code>Payment Integration</code>
-  <code>Booking Systems</code>
-  <code>Payment Integration</code>
+  <code>Full-Stack Web Application</code>
+  <code>Booking &amp; Reservation</code>
+  <code>PMS</code>
+  <code>Channel Management</code>
+  <code>Revenue Management</code>
 </p>
 
 <p align="center">
@@ -70,35 +66,32 @@ A complete hotel-management and online booking platform supporting room manageme
 
 <td width="50%" valign="top">
 
-<h3 align="center">Nodyx CRM</h3>
+<h3 align="center">02. LittleAIBox</h3>
 
 <p align="center">
-  <a href="https://nodyx.org/">
+  <a href="https://littleaibox.com/">
     <img
-      src="./portfolio/Nodyx.png"
+      src="./portfolio/LittleAlBox.png"
       width="100%"
-      alt="A self-hosted community and social platform"
+      alt="Privacy-focused AI chat platform"
     />
   </a>
 </p>
 
 <p align="center">
-A self-hosted community and social platform with a modern backend architecture designed for scalable user interactions and content management. Demonstrates backend engineering, API development, authentication, data processing, and service integration.
+Privacy-focused AI chat platform providing AI-assisted conversations, coding, writing, translation, and research tools. Includes task presets, customizable AI parameters, conversation management, API-key configuration, and subscription features.
 </p>
 
 <p align="center">
-  <code>JavaScript</code>
-  <code>Rust</code>
-  <code>Node.js</code>
-  <code>REST API</code>
-  <code>Authentication</code>
-  <code>Server Architecture</code>
-  <code>Database Modeling</code>
-  <code>Security</code>
+  <code>AI-Powered Application</code>
+  <code>LLM Integration</code>
+  <code>Conversational AI</code>
+  <code>API Configuration</code>
+  <code>Subscription Features</code>
 </p>
 
 <p align="center">
-  <a href="https://nodyx.org/">
+  <a href="https://littleaibox.com/">
     🔗 <strong>VIEW LIVE PROJECT</strong>
   </a>
 </p>
@@ -115,34 +108,32 @@ A self-hosted community and social platform with a modern backend architecture d
 
 <td width="50%" valign="top">
 
-<h3 align="center">LittleAIBox</h3>
+<h3 align="center">03. Paradex</h3>
 
 <p align="center">
-  <a href="https://littleaibox.com/">
+  <a href="https://www.paradex.trade/">
     <img
-      src="./portfolio/LittleAlBox.png"
+      src="./portfolio/Paradex.png"
       width="100%"
-      alt="A privacy-focused AI application"
+      alt="Decentralized trading platform"
     />
   </a>
 </p>
 
 <p align="center">
-A privacy-focused AI application providing a unified interface for interacting with modern AI models. Demonstrates AI integration, conversational interfaces, model management, secure API communication, and modern web application development.
+Decentralized trading platform combining blockchain technology with a high-performance exchange experience. Supports perpetual futures, options, spot trading, unified margin, real-time markets, and REST/WebSocket APIs.
 </p>
 
 <p align="center">
-  <code>React</code>
-  <code>TypeScript</code>
-  <code>Python/Node.js</code>
-  <code>REST APIs</code>
-  <code>AI API Integration</code>
-  <code>LLM Integration</code>
-  <code>Model Management</code>
+  <code>Blockchain/Web3</code>
+  <code>Real-Time Web Application</code>
+  <code>Paradex Trading App</code>
+  <code>WebSocket APIs</code>
+  <code>Perpetual Futures</code>
 </p>
 
 <p align="center">
-  <a href="https://github.com/LittleAIBox/LittleAIBox">
+  <a href="https://www.paradex.trade/">
     🔗 <strong>VIEW LIVE PROJECT</strong>
   </a>
 </p>
@@ -155,37 +146,33 @@ A privacy-focused AI application providing a unified interface for interacting w
 
 <td width="50%" valign="top">
 
-<h3 align="center">Paradex</h3>
+<h3 align="center">04. DentalPin</h3>
 
 <p align="center">
-  <a href="https://www.paradex.trade/">
+  <a href="https://demo.dentalpin.com/login">
     <img
-      src="./portfolio/Paradex.png"
+      src="./portfolio/DentalPin.png"
       width="100%"
-      alt="A real-time decentralized trading platform"
+      alt="Dental-clinic management application"
     />
   </a>
 </p>
 
 <p align="center">
-  A real-time decentralized trading platform designed for high-frequency market interaction and live financial data. Demonstrates real-time communication, trading interfaces, WebSocket data streams, API integration, and blockchain-based application architecture.
+Dental-clinic management application designed to manage patients, appointments, budgets, payments, and day-to-day clinic operations. Provides an integrated business dashboard for organizing clinical records, scheduling, financial information, and practice workflows.
 </p>
 
 <p align="center">
-  <code>React</code>
-  <code>TypeScript</code>
-  <code>Next.js</code>
-  <code>Tailwind CSS</code>
-  <code>REST API/WebSocket</code>
-  <code>Real-Time Data Processing</code>
-  <code>Next.js</code>
-  <code>Smart Contracts</code>
-  <code>...</code>
+  <code>Healthcare Management</code>
+  <code>Database &amp; API Integration</code>
+  <code>Patient Management</code>
+  <code>Scheduling</code>
+  <code>Financial Workflows</code>
 </p>
 
 <p align="center">
-  <a href="https://www.paradex.trade/">
-    🔗 <strong>VIEW PROJECT</strong>
+  <a href="https://demo.dentalpin.com/login">
+    🔗 <strong>VIEW LIVE PROJECT</strong>
   </a>
 </p>
 
@@ -201,36 +188,33 @@ A privacy-focused AI application providing a unified interface for interacting w
 
 <td width="50%" valign="top">
 
-<h3 align="center">Horilla HR</h3>
+<h3 align="center">05. V7 Labs</h3>
 
 <p align="center">
-  <a href="https://www.horilla.com/">
+  <a href="https://www.v7labs.com/">
     <img
-      src="./portfolio/Horilla HR.png"
+      src="./portfolio/V7 Labs.png"
       width="100%"
-      alt="A comprehensive human-resource management platform"
+      alt="AI platform for document processing and computer vision"
     />
   </a>
 </p>
 
 <p align="center">
-  A comprehensive human-resource management platform covering employees, attendance, leave, recruitment, payroll, performance, and organizational workflows. Demonstrates the ability to develop large-scale business software with complex permissions and interconnected modules.
+AI platform for document processing, computer vision, medical AI, and intelligent data extraction. Provides automated workflows for turning complex visual and unstructured data into usable information.
 </p>
 
 <p align="center">
-  <code>Python</code>
-  <code>Django</code>
-  <code>REST APIs</code>
-  <code>PostgreSQL</code>
-  <code>RBAC</code>
-  <code>Authentication</code>
-  <code>HR Management</code>
-  <code>Business Workflows</code>
+  <code>AI Platform</code>
+  <code>Computer Vision</code>
+  <code>Document Processing</code>
+  <code>Medical AI</code>
+  <code>Data Extraction</code>
 </p>
 
 <p align="center">
-  <a href="https://www.horilla.com/">
-    🔗 <strong>VIEW PROJECT</strong>
+  <a href="https://www.v7labs.com/">
+    🔗 <strong>VIEW LIVE PROJECT</strong>
   </a>
 </p>
 
@@ -242,37 +226,33 @@ A privacy-focused AI application providing a unified interface for interacting w
 
 <td width="50%" valign="top">
 
-<h3 align="center">Beefy Finance</h3>
+<h3 align="center">06. folk</h3>
 
 <p align="center">
-  <a href="https://beefy.com/">
+  <a href="https://www.folk.app/">
     <img
-      src="./portfolio/Beefy Finance.png"
+      src="./portfolio/folk.png"
       width="100%"
-      alt="A decentralized yield-optimization platform"
+      alt="Relationship-focused CRM"
     />
   </a>
 </p>
 
 <p align="center">
- A decentralized yield-optimization platform that automates strategies for users across blockchain networks. Demonstrates practical Web3 development involving smart contracts, DeFi protocols, blockchain interactions, wallets, and automated financial strategies.
+Relationship-focused CRM designed for founders, agencies, sales teams, and growing businesses. Combines contact management, relationship tracking, pipelines, communication, and customizable workflows.
 </p>
 
 <p align="center">
-  <code>React</code>
-  <code>JavaScript</code>
-  <code>TypeScript</code>
-  <code>Node.js</code>
-  <code>Solidity</code>
-  <code>Smart Contracts</code>
-  <code>EVM</code>
-  <code>Transaction Management</code>
-  <code>Security</code>
+  <code>CRM</code>
+  <code>Contact Management</code>
+  <code>Sales Pipelines</code>
+  <code>Relationship Tracking</code>
+  <code>Workflow Automation</code>
 </p>
 
 <p align="center">
-  <a href="https://beefy.com/">
-    🔗 <strong>VIEW PROJECT</strong>
+  <a href="https://www.folk.app/">
+    🔗 <strong>VIEW LIVE PROJECT</strong>
   </a>
 </p>
 
@@ -288,35 +268,33 @@ A privacy-focused AI application providing a unified interface for interacting w
 
 <td width="50%" valign="top">
 
-<h3 align="center">Nellavio</h3>
+<h3 align="center">07. Whatnot</h3>
 
 <p align="center">
-  <a href="https://nellavio.com/">
+  <a href="https://www.whatnot.com/">
     <img
-      src="./portfolio/Nellavio.png"
+      src="./portfolio/Whatnot.png"
       width="100%"
-      alt="Crypto and NFT Platform"
+      alt="Live-shopping marketplace"
     />
   </a>
 </p>
 
 <p align="center">
-A modern, responsive web interface focused on polished visual presentation, reusable components, and seamless experiences across desktop, tablet, and mobile devices. Demonstrates strong frontend engineering and UI implementation skills.
+Live-shopping marketplace where sellers showcase products through interactive livestreams. Combines e-commerce, live video, auctions, community interaction, and social product discovery.
 </p>
 
 <p align="center">
-  <code>React</code>
-  <code>TypeScript</code>
-  <code>Tailwind CSS</code>
-  <code>UI/UX Implementation</code>
-  <code>Framer Motion</code>
-  <code>Accessibility</code>
-  <code>Cross-Browser Compatibility</code>
+  <code>E-Commerce</code>
+  <code>Live Streaming</code>
+  <code>Marketplace</code>
+  <code>Auctions</code>
+  <code>Social Commerce</code>
 </p>
 
 <p align="center">
-  <a href="https://nellavio.com/">
-    🔗 <strong>VIEW PROJECT</strong>
+  <a href="https://www.whatnot.com/">
+    🔗 <strong>VIEW LIVE PROJECT</strong>
   </a>
 </p>
 
@@ -328,36 +306,33 @@ A modern, responsive web interface focused on polished visual presentation, reus
 
 <td width="50%" valign="top">
 
-<h3 align="center">DentalPin</h3>
+<h3 align="center">08. Tebra</h3>
 
 <p align="center">
-  <a href="https://demo.dentalpin.com/">
+  <a href="https://www.tebra.com/">
     <img
-      src="./portfolio/DentalPin.png"
+      src="./portfolio/Tebra.png"
       width="100%"
-      alt="A dental-focused web application"
+      alt="Healthcare practice-management platform"
     />
   </a>
 </p>
 
 <p align="center">
-  A dental-focused web application that combines structured patient and dental data with API-driven application workflows. It demonstrates practical database architecture, secure data management, API integration, and responsive interfaces for managing healthcare-related information.
+Healthcare practice-management platform for medical practices and healthcare providers. Supports patient management, scheduling, billing, payments, communication, and other clinical business workflows.
 </p>
 
 <p align="center">
-  <code>React</code>
-  <code>TypeScript</code>
-  <code>Node.js</code>
-  <code>API Integration</code>
-  <code>PostgreSQL</code>
-  <code>Data Modeling</code>
-  <code>Search & Filtering</code>
-  <code>Third-Party API</code>
+  <code>Healthcare Management</code>
+  <code>Practice Management</code>
+  <code>Patient Scheduling</code>
+  <code>Billing &amp; Payments</code>
+  <code>Clinical Workflows</code>
 </p>
 
 <p align="center">
-  <a href="https://dentalpin.com/">
-    🔗 <strong>VIEW PROJECT</strong>
+  <a href="https://www.tebra.com/">
+    🔗 <strong>VIEW LIVE PROJECT</strong>
   </a>
 </p>
 
