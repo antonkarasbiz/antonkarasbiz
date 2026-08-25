@@ -13,14 +13,36 @@
 <p align="center">
   <a href="https://github.com/antonkarasbiz/portfolio">
     <img
-      src="https://img.shields.io/badge/Portfolio-View%20Projects-ff8a00?style=for-the-badge&logo=github&logoColor=white"
+      src="https://img.shields.io/badge/📁_Portfolio-View_Projects-ff8a00?style=for-the-badge&labelColor=171c20&logo=github&logoColor=white"
       alt="Portfolio — View Projects"
+    />
+  </a>
+  &nbsp;
+  <a href="https://antonkarasbiz.github.io/portfolio/">
+    <img
+      src="https://img.shields.io/badge/🎠_Interactive_Gallery-View_Slideshows-ff6600?style=for-the-badge&labelColor=171c20&logo=github&logoColor=white"
+      alt="Interactive Gallery — View Slideshows"
     />
   </a>
 </p>
 
+<p align="center"><strong>Connect</strong></p>
 <p align="center">
-  <em>I build scalable web applications, robust backend systems, blockchain solutions, and AI-powered software.</em>
+  <a href="mailto:antonkarasbiz@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  &nbsp;
+  <a href="https://t.me/antonkarasbiz">
+    <img src="https://img.shields.io/badge/Telegram-@antonkarasbiz-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
+  </a>
+  &nbsp;
+  <a href="https://discord.gg/antonkarasbiz">
+    <img src="https://img.shields.io/badge/Discord-Join-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
+  </a>
+  &nbsp;
+  <a href="https://x.com/antonkarasbiz">
+    <img src="https://img.shields.io/badge/X-@antonkarasbiz-111111?style=for-the-badge&logo=x&logoColor=white" alt="X" />
+  </a>
 </p>
 
 
