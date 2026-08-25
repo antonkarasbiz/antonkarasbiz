@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" width="950" height="1310" viewBox="0 0 950 1310">
+<svg xmlns="http://www.w3.org/2000/svg" width="950" height="1280" viewBox="0 0 950 1280">
   <title>Anton Karas — Software Engineer Portfolio</title>
   <desc>950px wide editable portfolio card. All visible wording is editable SVG text.</desc>
   <defs>
@@ -10,7 +10,7 @@
       .panel{fill:url(#panel);stroke:#2b3136;stroke-width:1.5}.heading{fill:#ff8a00;font-family:Arial,Helvetica,sans-serif;font-size:25px;font-weight:700;letter-spacing:.5px}.body{fill:#ededed;font-family:Arial,Helvetica,sans-serif;font-size:20px}.label{fill:#ededed;font-family:Arial,Helvetica,sans-serif;font-size:18px;font-weight:700}.value{fill:#bfc2c5;font-family:Arial,Helvetica,sans-serif;font-size:17px}.tag{fill:#2a3035;stroke:#343b41;stroke-width:1}.tagText{fill:#f1f1f1;font-family:Arial,Helvetica,sans-serif;font-size:16px;font-weight:600}.skillHead{fill:#ededed;font-family:Arial,Helvetica,sans-serif;font-size:18px;font-weight:700}.skillNote{fill:#9fa5aa;font-family:Arial,Helvetica,sans-serif;font-size:15px}
     </style>
   </defs>
-  <rect width="950" height="1310" fill="url(#bg)"/>
+  <rect width="950" height="1280" fill="url(#bg)"/>
   <g transform="translate(25,0)">
 
   <!-- HEADER -->
@@ -52,7 +52,7 @@
   <text x="78" y="638" class="skillNote">Production-minded architecture • clean code • secure integrations • scalable systems</text>
 
   <!-- TECHNICAL SKILLS -->
-  <rect x="36" y="682" width="828" height="560" rx="20" class="panel"/>
+  <rect x="36" y="682" width="828" height="520" rx="20" class="panel"/>
   <text x="62" y="725" class="heading">&lt;/&gt; TECHNICAL SKILLS</text>
   <text x="62" y="753" class="skillNote">Modern stack for booking, healthcare, trading, AI, CRM, and marketplace applications</text>
   <line x1="62" y1="770" x2="838" y2="770" stroke="#30363b"/>
@@ -112,15 +112,15 @@
     <rect class="tag" x="692" y="1066" width="100" height="36" rx="18"/><text x="742" y="1090" text-anchor="middle">Wallet APIs</text>
   </g>
 
-  <text x="62" y="1156" class="skillHead">AI &amp; Intelligent Systems</text>
+  <text x="62" y="1148" class="skillHead">AI &amp; Intelligent Systems</text>
   <g class="tagText">
-    <rect class="tag" x="175" y="1176" width="80" height="36" rx="18"/><text x="215" y="1200" text-anchor="middle">OpenAI</text>
-    <rect class="tag" x="268" y="1176" width="95" height="36" rx="18"/><text x="315" y="1200" text-anchor="middle">LLM Apps</text>
-    <rect class="tag" x="376" y="1176" width="58" height="36" rx="18"/><text x="405" y="1200" text-anchor="middle">RAG</text>
-    <rect class="tag" x="447" y="1176" width="125" height="36" rx="18"/><text x="509" y="1200" text-anchor="middle">Computer Vision</text>
-    <rect class="tag" x="583" y="1176" width="120" height="36" rx="18"/><text x="643" y="1200" text-anchor="middle">Data Extraction</text>
+    <rect class="tag" x="300" y="1122" width="80" height="36" rx="18"/><text x="340" y="1146" text-anchor="middle">OpenAI</text>
+    <rect class="tag" x="391" y="1122" width="95" height="36" rx="18"/><text x="438" y="1146" text-anchor="middle">LLM Apps</text>
+    <rect class="tag" x="497" y="1122" width="58" height="36" rx="18"/><text x="526" y="1146" text-anchor="middle">RAG</text>
+    <rect class="tag" x="566" y="1122" width="150" height="36" rx="18"/><text x="641" y="1146" text-anchor="middle">Computer Vision</text>
+    <rect class="tag" x="726" y="1122" width="136" height="36" rx="18"/><text x="794" y="1146" text-anchor="middle">Data Extraction</text>
   </g>
 
-  <text x="450" y="1270" class="orange" font-size="17" text-anchor="middle">Professional software • Clear communication • Long-term value</text>
+  <text x="450" y="1240" class="orange" font-size="17" text-anchor="middle">Professional software • Clear communication • Long-term value</text>
   </g>
 </svg>
