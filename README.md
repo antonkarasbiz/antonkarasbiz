@@ -36,8 +36,8 @@
     <img src="https://img.shields.io/badge/Telegram-@antonkaras_biz-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
   </a>
   &nbsp;
-  <a href="https://discord.gg/antonkaras_biz">
-    <img src="https://img.shields.io/badge/Discord-Join-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
+  <a href="https://discord.com/users/381074277870469122">
+    <img src="https://img.shields.io/badge/Discord-@antonkaras__biz-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord @antonkaras_biz" />
   </a>
   &nbsp;
   <a href="https://x.com/antonkaras_biz">
