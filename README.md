@@ -45,11 +45,7 @@ Open-source hotel-management and reservation platform covering PMS, online booki
 </p>
 
 <p align="center">
-  <code>Full-Stack Web Application</code>
-  <code>Booking &amp; Reservation</code>
-  <code>PMS</code>
-  <code>Channel Management</code>
-  <code>Revenue Management</code>
+  <code>Full-Stack Web Application / Booking &amp; Reservation</code>
 </p>
 
 <p align="center">
@@ -84,10 +80,6 @@ Privacy-focused AI chat platform providing AI-assisted conversations, coding, wr
 
 <p align="center">
   <code>AI-Powered Application</code>
-  <code>LLM Integration</code>
-  <code>Conversational AI</code>
-  <code>API Configuration</code>
-  <code>Subscription Features</code>
 </p>
 
 <p align="center">
@@ -124,12 +116,10 @@ Privacy-focused AI chat platform providing AI-assisted conversations, coding, wr
 Decentralized trading platform combining blockchain technology with a high-performance exchange experience. Supports perpetual futures, options, spot trading, unified margin, real-time markets, and REST/WebSocket APIs.
 </p>
 
+<p align="center"><em>Trading application: Paradex Trading App</em></p>
+
 <p align="center">
-  <code>Blockchain/Web3</code>
-  <code>Real-Time Web Application</code>
-  <code>Paradex Trading App</code>
-  <code>WebSocket APIs</code>
-  <code>Perpetual Futures</code>
+  <code>Blockchain/Web3 / Real-Time Web Application</code>
 </p>
 
 <p align="center">
@@ -163,11 +153,7 @@ Dental-clinic management application designed to manage patients, appointments, 
 </p>
 
 <p align="center">
-  <code>Healthcare Management</code>
-  <code>Database &amp; API Integration</code>
-  <code>Patient Management</code>
-  <code>Scheduling</code>
-  <code>Financial Workflows</code>
+  <code>Healthcare Management / Database &amp; API Integration</code>
 </p>
 
 <p align="center">
