@@ -16,6 +16,8 @@
 *Welcome to my portfolio.*
 *I build **scalable web applications, robust backend systems, blockchain solutions, and AI-powered software** with a focus on clean architecture, performance, security, and modern user experiences.*
 
+Specialized in **full-stack development**, **real-time systems**, **healthcare & booking platforms**, **DeFi/trading interfaces**, and **AI-powered products** — from product design through production deployment.
+
 
 ## Featured Projects
 
@@ -45,7 +47,20 @@ Open-source hotel-management and reservation platform covering PMS, online booki
 </p>
 
 <p align="center">
-  <code>Full-Stack Web Application / Booking &amp; Reservation</code>
+  <strong>Portfolio category:</strong> Full-Stack Web Application / Booking &amp; Reservation
+</p>
+
+<p align="center">
+  <code>PHP</code>
+  <code>MySQL</code>
+  <code>HTML5</code>
+  <code>CSS3</code>
+  <code>PMS</code>
+  <code>Online Booking</code>
+  <code>Channel Management</code>
+  <code>Payment Integration</code>
+  <code>Revenue Management</code>
+  <code>Reporting</code>
 </p>
 
 <p align="center">
@@ -79,7 +94,18 @@ Privacy-focused AI chat platform providing AI-assisted conversations, coding, wr
 </p>
 
 <p align="center">
-  <code>AI-Powered Application</code>
+  <strong>Portfolio category:</strong> AI-Powered Application
+</p>
+
+<p align="center">
+  <code>React</code>
+  <code>TypeScript</code>
+  <code>LLM Integration</code>
+  <code>Conversational AI</code>
+  <code>Task Presets</code>
+  <code>API Configuration</code>
+  <code>Model Management</code>
+  <code>Subscription Features</code>
 </p>
 
 <p align="center">
@@ -116,10 +142,21 @@ Privacy-focused AI chat platform providing AI-assisted conversations, coding, wr
 Decentralized trading platform combining blockchain technology with a high-performance exchange experience. Supports perpetual futures, options, spot trading, unified margin, real-time markets, and REST/WebSocket APIs.
 </p>
 
-<p align="center"><em>Trading application: Paradex Trading App</em></p>
+<p align="center">
+  <strong>Portfolio category:</strong> Blockchain/Web3 / Real-Time Web Application<br/>
+  <em>Trading application: Paradex Trading App</em>
+</p>
 
 <p align="center">
-  <code>Blockchain/Web3 / Real-Time Web Application</code>
+  <code>React</code>
+  <code>TypeScript</code>
+  <code>Next.js</code>
+  <code>WebSocket</code>
+  <code>REST APIs</code>
+  <code>Perpetual Futures</code>
+  <code>Options Trading</code>
+  <code>Unified Margin</code>
+  <code>Smart Contracts</code>
 </p>
 
 <p align="center">
@@ -153,7 +190,19 @@ Dental-clinic management application designed to manage patients, appointments, 
 </p>
 
 <p align="center">
-  <code>Healthcare Management / Database &amp; API Integration</code>
+  <strong>Portfolio category:</strong> Healthcare Management / Database &amp; API Integration
+</p>
+
+<p align="center">
+  <code>React</code>
+  <code>TypeScript</code>
+  <code>Node.js</code>
+  <code>PostgreSQL</code>
+  <code>Patient Management</code>
+  <code>Appointment Scheduling</code>
+  <code>Budget &amp; Payments</code>
+  <code>Clinical Dashboard</code>
+  <code>API Integration</code>
 </p>
 
 <p align="center">
@@ -191,11 +240,16 @@ AI platform for document processing, computer vision, medical AI, and intelligen
 </p>
 
 <p align="center">
-  <code>AI Platform</code>
+  <strong>Portfolio category:</strong> AI Platform / Computer Vision &amp; Data Extraction
+</p>
+
+<p align="center">
   <code>Computer Vision</code>
   <code>Document Processing</code>
   <code>Medical AI</code>
   <code>Data Extraction</code>
+  <code>Automated Workflows</code>
+  <code>Unstructured Data</code>
 </p>
 
 <p align="center">
@@ -229,10 +283,15 @@ Relationship-focused CRM designed for founders, agencies, sales teams, and growi
 </p>
 
 <p align="center">
+  <strong>Portfolio category:</strong> CRM / Relationship Management SaaS
+</p>
+
+<p align="center">
   <code>CRM</code>
   <code>Contact Management</code>
   <code>Sales Pipelines</code>
   <code>Relationship Tracking</code>
+  <code>Communication Tools</code>
   <code>Workflow Automation</code>
 </p>
 
@@ -271,10 +330,15 @@ Live-shopping marketplace where sellers showcase products through interactive li
 </p>
 
 <p align="center">
+  <strong>Portfolio category:</strong> E-Commerce / Live Streaming Marketplace
+</p>
+
+<p align="center">
   <code>E-Commerce</code>
   <code>Live Streaming</code>
   <code>Marketplace</code>
-  <code>Auctions</code>
+  <code>Real-Time Auctions</code>
+  <code>Community Interaction</code>
   <code>Social Commerce</code>
 </p>
 
@@ -309,11 +373,16 @@ Healthcare practice-management platform for medical practices and healthcare pro
 </p>
 
 <p align="center">
+  <strong>Portfolio category:</strong> Healthcare Management / Practice Management
+</p>
+
+<p align="center">
   <code>Healthcare Management</code>
   <code>Practice Management</code>
   <code>Patient Scheduling</code>
   <code>Billing &amp; Payments</code>
   <code>Clinical Workflows</code>
+  <code>Provider Communication</code>
 </p>
 
 <p align="center">
