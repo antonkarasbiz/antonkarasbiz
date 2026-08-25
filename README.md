@@ -32,16 +32,16 @@
     <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   &nbsp;
-  <a href="https://t.me/antonkarasbiz">
-    <img src="https://img.shields.io/badge/Telegram-@antonkarasbiz-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
+  <a href="https://t.me/antonkaras_biz">
+    <img src="https://img.shields.io/badge/Telegram-@antonkaras_biz-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
   </a>
   &nbsp;
-  <a href="https://discord.gg/antonkarasbiz">
+  <a href="https://discord.gg/antonkaras_biz">
     <img src="https://img.shields.io/badge/Discord-Join-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
   </a>
   &nbsp;
-  <a href="https://x.com/antonkarasbiz">
-    <img src="https://img.shields.io/badge/X-@antonkarasbiz-111111?style=for-the-badge&logo=x&logoColor=white" alt="X" />
+  <a href="https://x.com/antonkaras_biz">
+    <img src="https://img.shields.io/badge/X-@antonkaras_biz-111111?style=for-the-badge&logo=x&logoColor=white" alt="X" />
   </a>
 </p>
 
