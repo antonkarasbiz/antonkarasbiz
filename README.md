@@ -28,21 +28,20 @@
 
 <p align="center"><strong>CONNECT</strong></p>
 <p align="center">
-  <a href="mailto:antonkarasbiz@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  &nbsp;
-  <a href="https://t.me/antonkaras_biz">
-    <img src="https://img.shields.io/badge/Telegram-@antonkaras_biz-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
-  </a>
-  &nbsp;
-  <a href="https://discord.com/users/381074277870469122">
-    <img src="https://img.shields.io/badge/Discord-@antonkaras__biz-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord @antonkaras_biz" />
-  </a>
-  &nbsp;
-  <a href="https://x.com/antonkaras_biz">
-    <img src="https://img.shields.io/badge/X-@antonkaras_biz-111111?style=for-the-badge&logo=x&logoColor=white" alt="X" />
-  </a>
+  <span style="white-space: nowrap;">
+    <a href="mailto:antonkarasbiz@gmail.com">
+      <img src="https://img.shields.io/static/v1?label=Email&message=Contact&color=EA4335&style=flat-square&logo=gmail&logoColor=white" height="28" alt="Email" />
+    </a>
+    <a href="https://t.me/antonkaras_biz">
+      <img src="https://img.shields.io/static/v1?label=Telegram&message=@antonkaras_biz&color=26A5E4&style=flat-square&logo=telegram&logoColor=white" height="28" alt="Telegram @antonkaras_biz" />
+    </a>
+    <a href="https://discord.com/users/381074277870469122">
+      <img src="https://img.shields.io/static/v1?label=Discord&message=@antonkaras_biz&color=5865F2&style=flat-square&logo=discord&logoColor=white" height="28" alt="Discord @antonkaras_biz" />
+    </a>
+    <a href="https://x.com/antonkaras_biz">
+      <img src="https://img.shields.io/static/v1?label=X&message=@antonkaras_biz&color=111111&style=flat-square&logo=x&logoColor=white" height="28" alt="X @antonkaras_biz" />
+    </a>
+  </span>
 </p>
 
 
