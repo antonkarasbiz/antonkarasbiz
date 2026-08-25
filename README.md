@@ -4,7 +4,7 @@
 
 <p align="center">
   <img
-    src="./About_me.svg?v=20260825"
+    src="./About_me.svg?v=20260825b"
     width="970"
     alt="Anton Karas - Full Stack Developer"
   />
