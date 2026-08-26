@@ -26,22 +26,22 @@
   </a>
 </p>
 
-<p align="center"><strong>CONNECT</strong></p>
+<p align="center">I'd be happy to hear from you.</p>
 <p align="center">
   <a href="mailto:antonkarasbiz@gmail.com">
-    <img src="https://img.shields.io/badge/Email_•_Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   &nbsp;
   <a href="https://t.me/antonkaras_biz">
-    <img src="https://img.shields.io/badge/Telegram_•_%40antonkaras__biz-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram @antonkaras_biz" />
+    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
   </a>
   &nbsp;
   <a href="https://discord.com/users/381074277870469122">
-    <img src="https://img.shields.io/badge/Discord_•_%40antonkaras__biz-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord @antonkaras_biz" />
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
   </a>
   &nbsp;
   <a href="https://x.com/antonkaras_biz">
-    <img src="https://img.shields.io/badge/X_•_%40antonkaras__biz-111111?style=for-the-badge&logo=x&logoColor=white" alt="X @antonkaras_biz" />
+    <img src="https://img.shields.io/badge/X-e7e9ea?style=for-the-badge&logo=x&logoColor=000000" alt="X" />
   </a>
 </p>
 
