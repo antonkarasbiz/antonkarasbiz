@@ -37,7 +37,7 @@
   </a>
   &nbsp;
   <a href="https://discord.com/users/381074277870469122">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
+    <img src="https://img.shields.io/badge/Add_me_•_antonkaras__biz-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Add me on Discord: antonkaras_biz" />
   </a>
   &nbsp;
   <a href="https://x.com/antonkaras_biz">
