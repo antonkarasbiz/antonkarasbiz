@@ -27,23 +27,18 @@
 </p>
 
 <p align="center">I'd be happy to hear from you.</p>
-<p align="center">
-  <a href="mailto:antonkarasbiz@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  &nbsp;
-  <a href="https://t.me/antonkaras_biz">
-    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
-  </a>
-  &nbsp;
-  <a href="https://discord.com/users/381074277870469122">
-    <img src="https://img.shields.io/badge/Add_me_•_antonkaras__biz-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Add me on Discord: antonkaras_biz" />
-  </a>
-  &nbsp;
-  <a href="https://x.com/antonkaras_biz">
-    <img src="https://img.shields.io/badge/X-e7e9ea?style=for-the-badge&logo=x&logoColor=000000" alt="X" />
-  </a>
-</p>
+
+<div align="center">
+
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:antonkarasbiz@gmail.com)
+&nbsp;
+[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/antonkaras_biz)
+&nbsp;
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/381074277870469122)
+&nbsp;
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/antonkaras_biz)
+
+</div>
 
 
 <div align="center">
