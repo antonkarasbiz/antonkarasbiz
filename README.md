@@ -13,14 +13,18 @@
 <p align="center">
   <a href="https://github.com/antonkarasbiz/portfolio">
     <img
-      src="https://img.shields.io/badge/📁_Portfolio_•_View_Projects-ff8a00?style=for-the-badge&logo=github&logoColor=white"
+      src="./badges/portfolio.svg"
+      width="400"
+      height="28"
       alt="Portfolio — View Projects"
     />
   </a>
   &nbsp;
   <a href="https://antonkarasbiz.github.io/portfolio/">
     <img
-      src="https://img.shields.io/badge/🎠_Interactive_Gallery_•_View_Slideshows-ff6600?style=for-the-badge&logo=github&logoColor=white"
+      src="./badges/gallery.svg"
+      width="400"
+      height="28"
       alt="Interactive Gallery — View Slideshows"
     />
   </a>
@@ -34,7 +38,7 @@
 &nbsp;
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/antonkaras_biz)
 &nbsp;
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/ZDB5syBah)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/381074277870469122)
 &nbsp;
 [![Twitter](https://img.shields.io/badge/Twitter-e7e9ea?style=for-the-badge&logo=x&logoColor=000000)](https://x.com/antonkaras_biz)
 
