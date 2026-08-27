@@ -25,7 +25,7 @@
       src="./badges/gallery.svg"
       width="400"
       height="28"
-      alt="Interactive Gallery — View Slideshows"
+      alt="Portfolio — View Slideshows"
     />
   </a>
 </p>
