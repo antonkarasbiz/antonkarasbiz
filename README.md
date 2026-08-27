@@ -34,9 +34,9 @@
 &nbsp;
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/antonkaras_biz)
 &nbsp;
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/381074277870469122)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/ZDB5syBah)
 &nbsp;
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/antonkaras_biz)
+[![Twitter](https://img.shields.io/badge/Twitter-e7e9ea?style=for-the-badge&logo=x&logoColor=000000)](https://x.com/antonkaras_biz)
 
 </div>
 
