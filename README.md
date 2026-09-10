@@ -1,68 +1,73 @@
 <!-- ========================================================= -->
-<!--                    ANTON KARAS README                     -->
+<!--              ANTON KARAS — ENGINEERING PROFILE            -->
 <!-- ========================================================= -->
 
 <p align="center">
   <img
-    src="./About_me.svg?v=20260825d"
+    src="./About_me.svg?v=20260910"
     width="970"
-    alt="Anton Karas - Full Stack Developer"
+    alt="Anton Karas — Full-Stack, Blockchain, and AI Engineer"
   />
 </p>
 
 <p align="center">
   <a href="https://github.com/antonkarasbiz/portfolio">
-    <img
-      src="./badges/portfolio.svg"
-      width="400"
-      height="28"
-      alt="Portfolio — View Projects"
-    />
+    <img src="./badges/portfolio.svg" width="400" height="28" alt="Portfolio — View Projects" />
   </a>
   &nbsp;
   <a href="https://antonkarasbiz.github.io/portfolio/">
-    <img
-      src="./badges/gallery.svg"
-      width="400"
-      height="28"
-      alt="Portfolio — View Slideshows"
-    />
+    <img src="./badges/gallery.svg" width="400" height="28" alt="Portfolio — View Slideshows" />
   </a>
 </p>
 
-<p align="center">I'd be happy to hear from you.</p>
+<h3 align="center">Full-Stack · Blockchain · AI</h3>
 
-<div align="center">
+<p align="center">
+  I design and ship production software across web platforms, on-chain systems, and applied AI.
+  Work spans product architecture, backend services, real-time clients, DeFi interfaces, and LLM-powered workflows.
+</p>
 
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:antonkarasbiz@gmail.com)
-&nbsp;
-[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/antonkaras_biz)
-&nbsp;
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/381074277870469122)
-&nbsp;
-[![Twitter](https://img.shields.io/badge/Twitter-e7e9ea?style=for-the-badge&logo=x&logoColor=000000)](https://x.com/antonkaras_biz)
+<p align="center">
+  <a href="mailto:antonkarasbiz@gmail.com"><img src="https://img.shields.io/badge/Email-antonkarasbiz%40gmail.com-111827?style=flat-square" alt="Email" /></a>
+  <a href="https://t.me/antonkaras_biz"><img src="https://img.shields.io/badge/Telegram-antonkaras__biz-26A5E4?style=flat-square&logo=telegram&logoColor=white" alt="Telegram" /></a>
+  <a href="https://x.com/antonkaras_biz"><img src="https://img.shields.io/badge/X-antonkaras__biz-111827?style=flat-square&logo=x&logoColor=white" alt="X" /></a>
+  <a href="https://anton-karas-portfolio.pages.dev/"><img src="https://img.shields.io/badge/Site-Portfolio-ff8a00?style=flat-square" alt="Portfolio site" /></a>
+</p>
 
-</div>
+## Practice
 
+This account is a professional engineering workspace for **full-stack product development**, **blockchain / Web3 systems**, and **AI-powered applications**. Repositories here cover production platforms, protocol work, and reusable foundations used to deliver client and product work.
 
-<div align="center">
+| Domain | Focus |
+| --- | --- |
+| Full-stack | Next.js, React, TypeScript, Node.js, FastAPI, Spring Boot, PostgreSQL, Redis |
+| Blockchain | Solana programs, EVM vaults, cross-chain bridges, DeFi / RWA, trading UIs |
+| AI | LLM gateways, copilots, conversation platforms, retrieval and tool-calling agents |
 
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="Thank You Animation"/>
-  
-</div>
+## Selected work
 
+| Repository | Description |
+| --- | --- |
+| [portfolio](https://github.com/antonkarasbiz/portfolio) | Project gallery and case studies |
+| [Paradex_Blockchain-web3](https://github.com/antonkarasbiz/Paradex_Blockchain-web3) | Decentralized trading platform — perpetuals, options, and real-time markets |
+| [crossyield-rwa-bridge](https://github.com/antonkarasbiz/crossyield-rwa-bridge) | Cross-chain RWA yield routing from Ethereum into Solana vaults |
+| [ai-gateway-platform](https://github.com/antonkarasbiz/ai-gateway-platform) | Cloud-native AI gateway for multi-model routing and API management |
+| [LittleAIBox_AI-Powered-Application](https://github.com/antonkarasbiz/LittleAIBox_AI-Powered-Application) | Privacy-focused AI conversation platform |
+| [DentalPin_Healthcar](https://github.com/antonkarasbiz/DentalPin_Healthcar) | Dental clinic operations with an agentic clinical copilot |
+| [QloApps_Full-stack_Booking](https://github.com/antonkarasbiz/QloApps_Full-stack_Booking) | Hotel PMS, booking engine, and channel management |
+| [nextjs-fullstack-app](https://github.com/antonkarasbiz/nextjs-fullstack-app) | Production storefront with GraphQL, i18n, and checkout |
+| [fullstack-saas-boilerplate](https://github.com/antonkarasbiz/fullstack-saas-boilerplate) | Typed SaaS foundation with tRPC, Fastify, and React |
+| [FastAPI-boilerplate](https://github.com/antonkarasbiz/FastAPI-boilerplate) | Async FastAPI service template with auth, jobs, and caching |
+| [program-examples](https://github.com/antonkarasbiz/program-examples) | Solana program examples in Anchor, Pinocchio, and native Rust |
 
-<div align="center">
-  
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/saiharsha3377/saiharsha3377/output/pacman-contribution-graph-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/saiharsha3377/saiharsha3377/output/pacman-contribution-graph.svg">
-    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/saiharsha3377/saiharsha3377/output/pacman-contribution-graph.svg">
-  </picture>
-  
-  <br clear="both">
-  <img src="https://raw.githubusercontent.com/sadat-sdt/sadat-sdt/output/snake.svg" alt="Snake animation" />
-  <img src="./ANTON.svg" />
-  
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-</div>
+## Contact
+
+Available for remote product engineering, protocol integration, and AI systems work.
+
+- Email: [antonkarasbiz@gmail.com](mailto:antonkarasbiz@gmail.com)
+- Telegram: [antonkaras_biz](https://t.me/antonkaras_biz)
+- Portfolio: [antonkarasbiz.github.io/portfolio](https://antonkarasbiz.github.io/portfolio/)
+
+<p align="center">
+  <img src="./ANTON.svg" alt="Anton Karas" />
+</p>
